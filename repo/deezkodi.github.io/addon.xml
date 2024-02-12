@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="deezkodi.github.io" name="deezkodi" version="1.0" provider-name="lilbigbird">
+<addon id="plugin.program.deezkodi" name="deezkodi" version="1.0" provider-name="lilbigbird">
     <extension point="xbmc.addon.repository" name="Deez Kodi">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/lilbigbird/deezkodi/master/repo/zips/addons.xml</info>
