@@ -1,6 +1,0 @@
-[COLOR darkorange][B]v0.0.6[/B]
-* Removed None Working IMDB Sections In Movies & Tv Show Scrapers
-
-[COLOR darkorange][B]v0.0.5[/B]
-* Added A Few New Sections
-
