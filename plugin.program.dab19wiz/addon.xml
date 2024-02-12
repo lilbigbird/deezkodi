@@ -9,7 +9,7 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">DaButchers Wizard for Kodi 19 and 20. This was built off of Slam and BYB work SIMPLE WIZARD.</summary>
+		<summary lang="en_GB">DEEZ KODI from dabutcher</summary>
 		<description lang="en_GB">Kodi 19 and 20 Wizard</description>
 		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
 		<language>en</language>
@@ -19,7 +19,7 @@
 		<website></website> 
 		<email></email>
 		<source></source>
-		<news>2.3 - Bug fixes and Speed Tester added  2.0 Nexus fix - Added backup/restore functionality for trakt/debrid accounts. Updated debrid/trakt authorization section. Restore of gui/skin settings has been added. Updated Advancedsettings configs. Updated wizard artwork. Added user edited color options for menus. Fixed wizard writing over itself during build installs. Edited fresh start to keep wizard/dependencies. Removed double ok dialog during build installs. Numerous other small fixes throughout.
+		<news>made da repo yashnear me
 		</news>
 		<assets>
 				<icon>resources/icon.png</icon>
